@@ -281,30 +281,6 @@ For questions, issues, or feature requests:
 - **Email**: arjun.yadav.engineer@gmail.com
 - **Documentation**: This README and inline code comments
 
-For support, email ar.com .
-
-## 🗺️ Roadmap
-
-### Phase 1 (Current)
-- ✅ Multi-level referral system
-- ✅ Real-time earnings tracking
-- ✅ Interactive dashboard
-- ✅ Purchase simulator
-
-### Phase 2 (Upcoming)
-- 🔄 Backend API integration
-- 🔄 Payment gateway integration
-- 🔄 Email notifications
-- 🔄 Mobile app
-
-### Phase 3 (Future)
-- 📋 Advanced analytics
-- 📋 Team management
-- 📋 Gamification features
-- 📋 Multi-currency support
-
----
 
 
-
-*Thanks *
+*If you find any issues or have suggestions for improvement, please open an issue or contact me directly.*

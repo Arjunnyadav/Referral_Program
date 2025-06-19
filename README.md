@@ -279,7 +279,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@referralsystem.com or join our Slack channel.
+For questions, issues, or feature requests:
+- **GitHub Issues**: [Create an issue](https://github.com/Arjunnyadav/Referral_Program/issues)
+- **Email**: arjun.yadav.engineer@gmail.com
+- **Documentation**: This README and inline code comments
+
+For support, email ar.com .
 
 ## 🗺️ Roadmap
 
@@ -303,6 +308,6 @@ For support, email support@referralsystem.com or join our Slack channel.
 
 ---
 
-**Made with ❤️ by [Your Name]**
 
-*Star ⭐ this repository if you found it helpful!*
+
+*Thanks *
